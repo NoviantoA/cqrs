@@ -9,4 +9,4 @@ create product
 > localhost:8081/products
 
 response axon server
-![](E:\Development\Spring\Latihan\CQRS\src\main\resources\images\Screenshot_2.jpg)
+![response](E:\Development\Spring\Latihan\CQRS\src\main\resources\images\Screenshot_2.jpg)
