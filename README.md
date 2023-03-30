@@ -9,4 +9,4 @@ create product
 > localhost:8081/products
 
 response axon server
-![response](src\main\resources\images\Screenshot_2.jpg)
+> ![Screenshot_2](https://user-images.githubusercontent.com/100056824/228889744-a3b786a2-224f-419e-b3a4-4ef720865087.jpg)
